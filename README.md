@@ -33,3 +33,25 @@ I've included a DELETE mapping that enables users to remove specific dog details
 
 9. PATCH Mapping: 
 Furthermore, I've implemented a PATCH mapping, providing users with the ability to partially update dog details in the API.
+
+
+
+![Screenshot (341)](https://github.com/Raushan1234567/Dog_Play/assets/115460955/cb51fd5e-10e5-4268-b819-2d1675e4dd82)
+
+POST Mapping:
+
+![Screenshot (342)](https://github.com/Raushan1234567/Dog_Play/assets/115460955/cc67d13c-24df-4ba9-9739-95cce4a5863a)
+
+DELETE Mapping:
+
+
+![Screenshot (344)](https://github.com/Raushan1234567/Dog_Play/assets/115460955/75b0b61e-f434-49c7-b057-d0362941b965)
+
+GET Mapping:
+![Screenshot (345)](https://github.com/Raushan1234567/Dog_Play/assets/115460955/0810218a-879c-4a50-927b-279d57bcae37)
+
+PATCH Mapping:
+
+![Screenshot (347)](https://github.com/Raushan1234567/Dog_Play/assets/115460955/82b0261f-d156-4ad1-9062-446c51a6a130)
+
+![Screenshot (346)](https://github.com/Raushan1234567/Dog_Play/assets/115460955/85f35667-7371-482e-a756-40f9e1393ed9)
